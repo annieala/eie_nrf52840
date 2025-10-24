@@ -1,0 +1,7 @@
+[manifest]
+path = eie_nrf52840.git
+file = west.yml
+
+[zephyr]
+base = zephyr
+
